@@ -1,0 +1,5 @@
+group_id,code,planned_registered_students,period,weekday,start_time,end_time
+g1,CS101,40,Sem_A,Tuesday,14:00,16:00
+g1,CS101,40,Sem_A,Thursday,10:00,12:00
+g2,CS102,30,Sem_A,Tuesday,14:00,16:00
+g3,CS103,55,Sem_A,Tuesday,14:00,16:00

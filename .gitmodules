@@ -1,0 +1,3 @@
+[submodule "third_party/facilitating-matches-paper"]
+	path = third_party/facilitating-matches-paper
+	url = https://github.com/yohayt/Facilitating-Matches-on-Allocation-Platforms.git
